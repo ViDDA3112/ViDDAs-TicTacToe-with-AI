@@ -1,2 +1,2 @@
 # TicTacToe-with-AI
-Check the latest Release for more details!
+Check out the latest release for more details!
